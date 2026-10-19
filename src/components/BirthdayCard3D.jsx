@@ -227,7 +227,7 @@ export default function BirthdayCard3D() {
                 Happy birthday my old love !
               </h4>
               <p style={{ fontSize: '0.85rem', lineHeight: '1.55', color: '#590008', fontWeight: '500' }}>
-                Kehadiranmu di dunia membawa banyak kebahagiaan, cinta, dan hal hal berharga yang sangat berarti dalam kehidupanku, May 19 tahunmu diwarnai dengan kesehatan, kebahagiaan, dan berkat yang tak terhenti.
+                Kehadiranmu di dunia membawa banyak kebahagiaan, cinta, dan hal hal berharga yang sangat berarti dalam kehidupanku, semoga 19 tahunmu diwarnai dengan kesehatan, kebahagiaan, dan berkat yang tak terhenti.
               </p>
             </div>
 

@@ -39,9 +39,9 @@ npm run preview
 ```
 ├── public/                                      # File statis dan media
 │   ├── favicon.svg                             # Icon web SVG
-│   ├── Takkan Terganti - Marcell.mp3           # Playlist track 1
+│   ├── lalu biru.mp3                           # Playlist track 1 (lalu biru X panasea)
 │   ├── Terpukau - Astrid.mp3                   # Playlist track 2
-│   ├── lalu biru.mp3                           # Playlist track 3
+│   ├── segalanya itu kamu.mp3                  # Playlist track 3 (David Bayu)
 │   ├── harun 1.jpeg ~ harun 6.jpeg             # 6 Foto kenangan Polaroid & Card
 │   ├── bunga 1 no bg.png ~ bunga 3 no bg.png   # Aset bunga animasi mekar & burst
 │   ├── bunga bucket no bg.png                  # Banner bouquet bunga
@@ -123,7 +123,7 @@ Aplikasi bekerja menggunakan 5 tahapan (*phases*):
 #### E. `MainCelebration.jsx`
 Ini adalah halaman utama perayaan yang memuat fitur-fitur berikut:
 1. **Music Player (Floating & Widget Playlist)**:
-   - Memutar 3 lagu spesial: *Takkan Terganti* (Marcell), *Terpukau* (Astrid), dan *Lalu Biru*.
+   - Memutar 3 lagu spesial: *Lalu Biru X Panasea*, *Terpukau* (Astrid), dan *Segalanya Itu Kamu* (David Bayu).
    - Tombol volume melayang di pojok kanan bawah.
    - Piringan hitam vinyl berputar dengan visual track duration bar dan tombol play/pause/skip.
 2. **Hero Section**:

@@ -23,10 +23,10 @@ import FarewellSection from './FarewellSection.jsx';
 const playlist = [
   {
     id: 1,
-    title: 'Takkan Terganti',
-    artist: 'Marcell',
-    duration: '4:04',
-    src: '/Takkan Terganti - Marcell.mp3'
+    title: 'lalu biru X panasea',
+    artist: 'Special Melody',
+    duration: '3:35',
+    src: '/lalu biru.mp3'
   },
   {
     id: 2,
@@ -37,10 +37,10 @@ const playlist = [
   },
   {
     id: 3,
-    title: 'Lalu Biru',
-    artist: 'Special Melody',
-    duration: '3:35',
-    src: '/lalu biru.mp3'
+    title: 'Segalanya Itu Kamu',
+    artist: 'David Bayu',
+    duration: '3:58',
+    src: '/segalanya itu kamu.mp3'
   }
 ];
 
@@ -80,15 +80,15 @@ const flowerCompliments = {
 const photoList = [
   {
     id: 1,
-    title: 'Prettiest Moments 💖',
-    date: '20 Oktober Special',
+    title: 'My favorite boy',
+    date: 'Childhood Memories',
     location: 'Our Journey',
     img: '/harun 1.jpeg',
     rotation: '-3deg'
   },
   {
     id: 2,
-    title: 'Sweetest Smile ✨',
+    title: 'My favorite man',
     date: 'Special Moment',
     location: 'Our Journey',
     img: '/harun 2.jpeg',
@@ -96,7 +96,7 @@ const photoList = [
   },
   {
     id: 3,
-    title: 'Precious Memories 🌸',
+    title: 'My Love of My Life',
     date: 'Special Moment',
     location: 'Our Journey',
     img: '/harun 3.jpeg',
@@ -104,7 +104,7 @@ const photoList = [
   },
   {
     id: 4,
-    title: 'Favorite Moments 💕',
+    title: 'Always be us',
     date: 'Special Moment',
     location: 'Our Journey',
     img: '/harun 4.jpeg',
@@ -112,7 +112,7 @@ const photoList = [
   },
   {
     id: 5,
-    title: 'Forever & Always 💫',
+    title: 'Happy birthday, my Panasea ✨',
     date: 'Special Moment',
     location: 'Our Journey',
     img: '/harun 5.jpeg',
@@ -120,7 +120,7 @@ const photoList = [
   },
   {
     id: 6,
-    title: 'Happy 19th Birthday 🌷',
+    title: 'Happy birthday, my Panasea',
     date: '20 Oktober Special',
     location: 'Our Journey',
     img: '/harun 6.jpeg',
