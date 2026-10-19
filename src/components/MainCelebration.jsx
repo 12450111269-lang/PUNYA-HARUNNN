@@ -129,7 +129,7 @@ const photoList = [
 ];
 
 const jarNotes = [
-  'Aku beruntung pernah memiliki kamu dalam hidup aku, terima kasih ya sudah menjadi manusia yang lahir ke dunia membawa kebahagiaan dan banyak hal berharga yang amat berarti dalam kehidupan aku.'
+  'Karena kamu, orang pertama yang bikin Gaby merasakan dicintai sedalam itu, bahagia bareng, dan ngukir banyak kenangan yang tak terlupakan, ga lupa juga, di kamu, Gaby bisa menemukan seseorang yang bener bener cocok, ga sekedar pasangan, tapi soal partner yang sefrekuensi dan Gaby bisa jadi diri sendiri ketika sama Harun. Aku beruntung pernah memiliki kamu dalam hidup aku, terima kasih ya sudah menjadi manusia yang lahir ke dunia membawa kebahagiaan dan banyak hal berharga yang amat berarti dalam kehidupan aku.'
 ];
 
 export default function MainCelebration() {
