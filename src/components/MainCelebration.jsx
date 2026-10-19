@@ -96,7 +96,7 @@ const photoList = [
   },
   {
     id: 3,
-    title: 'My Love of My Life',
+    title: 'My favorit person',
     date: 'Special Moment',
     location: 'Our Journey',
     img: '/harun 3.jpeg',
@@ -104,7 +104,7 @@ const photoList = [
   },
   {
     id: 4,
-    title: 'Always be us',
+    title: 'My love of my life',
     date: 'Special Moment',
     location: 'Our Journey',
     img: '/harun 4.jpeg',
@@ -112,7 +112,7 @@ const photoList = [
   },
   {
     id: 5,
-    title: 'Happy birthday, my Panasea ✨',
+    title: 'Always be us',
     date: 'Special Moment',
     location: 'Our Journey',
     img: '/harun 5.jpeg',
@@ -120,7 +120,7 @@ const photoList = [
   },
   {
     id: 6,
-    title: 'Happy birthday, my Panasea',
+    title: 'Happy birthday, My Panasea',
     date: '20 Oktober Special',
     location: 'Our Journey',
     img: '/harun 6.jpeg',
